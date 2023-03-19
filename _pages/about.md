@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="\images\daltonian_wide.png" style="margin: 20px auto 20px; display: block;"/>
+
 <div>
 <p>My name is Avery and I've always been fascinated by the science within nature. Growing up, I loved experimenting and learning about how things worked. This curiosity led me to pursue a degree in chemistry at the University of North Florida. During the last two years of my undergraduate studies, I became heavily involved in research, exploring topics  from biochemistry to physical & computational chemistry.</p>
 
