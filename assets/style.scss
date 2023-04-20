@@ -1162,14 +1162,13 @@ Modules - reusable parts of our design
 
 /* CSS */
 .button-37 {
-  background-color: #13aa52;
-  border: 1px solid #13aa52;
+  background-color: #0a803b;
+  border: 1px solid #0a803b;
   border-radius: 4px;
   box-shadow: rgba(0, 0, 0, .1) 0 2px 4px 0;
   box-sizing: border-box;
   color: #fff;
   cursor: pointer;
-  font-family: "Akzidenz Grotesk BQ Medium", -apple-system, BlinkMacSystemFont, sans-serif;
   font-size: 16px;
   font-weight: 400;
   outline: none;
@@ -1209,12 +1208,6 @@ Modules - reusable parts of our design
     flex: none;
     width: 100%;
     left: 0%;
-  }
-}
-
-@media (min-width: 768px) {
-  .button-37 {
-    padding: 10px 30px;
   }
 }
 
