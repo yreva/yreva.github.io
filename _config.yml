@@ -9,7 +9,7 @@ name: Daltonian
 author: Avery Dalton
 
 # Short bio or description (displayed in the header)
-description: Github Repository & Author Info
+description: Science Operations
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/logo.png
@@ -41,14 +41,14 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics_ga4: G-TFN3Q83RXE
+google_analytics_ga4: 
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
+#google_analytics_ga4: G-TFN3Q83RXE
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://daltonian.co
 enforce_ssl:
 
 # If you're hosting your site at a Project repository on GitHub pages
