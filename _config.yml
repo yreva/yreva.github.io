@@ -5,10 +5,11 @@ url: "https://daltonian.github.io"
 
 header_pages:
   - index.md
-  - dalton.md
   - about.md
+  - dalton.md
   - contact.md
   - publications.md
+  
 
 include: ['_media']
 
