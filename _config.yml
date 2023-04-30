@@ -8,7 +8,9 @@ header_pages:
   - dalton.md
   - about.md
   - contact.md
-  - <a href="github.com/daltonian">repo</a>
+  - publications.md
+
+include: ['_media']
 
 style: light 
 
@@ -17,3 +19,7 @@ footer: 'follow me on <a href="https://twitter.com/nitrocatechol">twitter</a>'
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+kramdown:
+  parse_block_html: true
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
