@@ -12,6 +12,7 @@ phd candidate (exp. 2024)
  - photosensitized reactions measured with quartz crystal microbalance
  - search for crystallinity in different types of secondary organic aerosol
  - *ChIMS*: chamber instrument management software [LabView]
+ 
 *personal*
  - development of DaltonView ([see here](https://daltonian.co/daltonview))
  - *unwrapped*: a music history visualizer
