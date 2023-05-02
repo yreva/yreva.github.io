@@ -22,4 +22,4 @@ In September of 2022, I obtained the domain for daltonian.xyz on a bit of a whim
 
 [Also, feel free to buy some merch!](https://store.daltonian.co)
 
-<img align="middle" src="/_media/daltonian_stacked.png" width="88%" alt="Daltonian"/>
+<img src="/_media/daltonian_stacked.png" width="31%" alt="Daltonian"/>
