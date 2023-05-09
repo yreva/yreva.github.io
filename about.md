@@ -3,6 +3,8 @@ layout: page
 title: /about
 permalink: /about/
 ---
+<img style="float:right" src="/_media/surf1.jpg" width="20%" alt="Me"/>
+
 My name is Avery and I've always been fascinated by the science within nature. Growing up, I loved experimenting and learning about how things worked. This curiosity led me to pursue a degree in chemistry at the University of North Florida. During the last two years of my undergraduate studies, I became heavily involved in research, exploring topics from biochemistry to physical & computational chemistry.
 
 After completing my undergraduate degree, I decided to take my passion for chemistry to the next level by pursuing graduate studies in physical chemistry. I moved to California to attend UC Irvine, where I currently am finishing out the last couple years of my PhD. Here, I have worked on several exciting research projects on the boundaries of atmospheric and physical chemistry, studying the effects of chemical environment on a select group of atmospheric polluatants (nitroaromatics).
