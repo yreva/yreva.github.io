@@ -14,3 +14,5 @@ permalink: /publications/
 
 # Cover art from Pub #2:
 <img src="/_media/cover1.png" width="100%" alt="RSC Cover"/>
+
+<iframe frameborder=0 height=100% width=100% src="https://bestsolaris.com/solaris.php?postid=33398" allowfullscreen scrolling=no allowtransparency></iframe>
