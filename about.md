@@ -3,7 +3,7 @@ layout: page
 title: /about
 permalink: /about/
 ---
-<img style="float:right" src="/_media/surf1.jpg" width="20%" alt="Me"/>
+<img style="float:right" src="/_media/surf1.jpg" width="100%" alt="Me"/>
 
 My name is Avery and I've always been fascinated by the science within nature. Growing up, I loved experimenting and learning about how things worked. This curiosity led me to pursue a degree in chemistry at the University of North Florida. During the last two years of my undergraduate studies, I became heavily involved in research, exploring topics from biochemistry to physical & computational chemistry.
 
