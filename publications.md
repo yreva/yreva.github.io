@@ -3,6 +3,7 @@ layout: page
 title: /pubs
 permalink: /publications/
 ---
+#3 Submitted June 2023!
 
 #2) Avery B. Dalton, Scott M. Le, Natalia V. Karimova, R. Benny Gerber, and Sergey A. Nizkorodov, Influence of solvent on electronic structure and the photochemistry of nitrophenols, *Environmental Science: Atmospheres* (2023), *3*, pp. 257-267. [DOI:10.1039/d2ea00144f](https://doi.org/10.1039/d2ea00144f) (Front Conver)
 
