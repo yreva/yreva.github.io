@@ -92,3 +92,18 @@
     src: url('./fonts/Libertinus-semibold-italic.woff2') format('woff2');
   }
   
+  body,
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  ul[class],
+  ol[class],
+  li,
+  figure,
+  figcaption,
+  dl,
+  dd {
+    font-family: 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
+  }

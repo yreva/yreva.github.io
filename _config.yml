@@ -32,7 +32,7 @@ github_username:  yreva
 # Additional icon links
 additional_links:
 - title: daltonian.co
-  icon: fas fa-globe
+  icon: fas fa-atom fa-fade
   url: https:/daltonian.co
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
