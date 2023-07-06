@@ -1,28 +1,9 @@
 ---
-title: /home
-layout: home
-permalink: /
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
 ---
-physical chemist & freelance meteoroligist.
-phd candidate (exp. 2024)
-
-# current projects
-
-
-*academic*
--ultrafast absorption of 4-nitrocatechol
--photosensitized reactions measured with quartz crystal microbalance
--search for crystallinity in different types of secondary organic aerosol
--*ChIMS*: chamber instrument management software [LabView]
-
-
-*personal*
--development of DaltonView ([see here](https://daltonian.co/daltonview))
--*unwrapped*: a music history visualizer
--daltonian (see link below)
-
-
-Check out my website: <a href="https://daltonian.co">daltonian.co</a>
-
-
-contact me: avery(at)daltonian.co
