@@ -85,6 +85,15 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Spectroscopic inquisition in all things nitro.
+    content:
+      - layout: left
+        title: Bacardi-Martini Product Development
+        sub_title: Intern - Analytical Research Group
+        caption: January 2018 - June 2019
+        quote: >
+         A chemist without a pen is like a knight without his sword - Oscar Garza
+        description:
+        Various chemical techiques used to analyze products in development.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,6 +108,15 @@ content:
           During my time at UCI I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I did little extracurricular work during my PhD as I was putting in maximal effort toward my research projects. I was only either in the ocean or in the lab. 
+    content:
+      - layout: left
+        title: University of California, Irvine
+        caption: 2019 - 2021
+        sub_title: MS Chemistry
+        quote: >
+          Quote about UCI here.
+        description: | # this will include new lines to allow paragraphs
+          During my time at UCI I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
   - title: A Little More About Me
     layout: text
@@ -109,7 +127,7 @@ content:
       - Sound Design
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
