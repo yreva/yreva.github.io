@@ -91,9 +91,9 @@ content:
         sub_title: Intern - Analytical Research Group
         caption: January 2018 - June 2019
         quote: >
-         A chemist without a pen is like a knight without his sword - Oscar Garza
+          A chemist without a pen is like a knight without his sword - Oscar Garza
         description: |
-        Various chemical techiques used to analyze products in development.
+            Various chemical techiques used to analyze products in development.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
