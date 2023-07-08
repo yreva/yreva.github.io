@@ -92,7 +92,7 @@ content:
         caption: January 2018 - June 2019
         quote: >
          A chemist without a pen is like a knight without his sword - Oscar Garza
-        description:
+        description: |
         Various chemical techiques used to analyze products in development.
 
   - title: Education # Title for the section
