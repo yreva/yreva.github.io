@@ -1,19 +1,19 @@
 # site settings
 
-title: Avery
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Avery Dalton
+description: Physical Chemist
+taglong: Physical Chemist
+tagshort: Physical Chemist
+url: https://adalton.us
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/yreva
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Avery Dalton
+  email: abdalton@uci.edu
 photo: /assets/photo.jpg
 
 # build settings
