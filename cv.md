@@ -4,7 +4,7 @@ title: CV
 ---
 
 <style>
-r { color: Red }
+r { color: #ffb3b3 }
 o { color: Orange }
 g { color: Green }
 </style>
@@ -19,21 +19,24 @@ g { color: Green }
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Bacardi-Martini Product Development
+### <r>Bacardi-Martini Product Development</r>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ## Education
 
-### PhD Chemistry - University of California, Irvine
+### <r>PhD Chemistry</r> - University of California, Irvine
 *Expected June 2024*
 
-### MS Chemistry - University of California, Irvine
+### <r>MS Chemistry</r> - University of California, Irvine
 *June 2021*
 
-### BS Chemistry - University of North Florida
+### <r>BS Chemistry</r> - University of North Florida
 *Summa cum laude*
 *December 2018*
+
+### <r> AA General Studies </r> Eastern Florida State College
+*August 2016*
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
