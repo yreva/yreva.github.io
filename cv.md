@@ -3,13 +3,19 @@ layout: cv
 title: CV
 ---
 
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 # Curriculum Vitæ
 
 {% include contact.html %}
 
 ## Experience
 
-### Aerosol Photochemistry Group
+### <r>Aerosol Photochemistry Group</r>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
