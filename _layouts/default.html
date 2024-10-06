@@ -1,28 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+---
 
-{% include head.html %}
+<!doctype html>
+{% include copyright.html %}
+<html lang="{{ site.locale | replace: "_", "-" | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-<body>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" dir="{% if site.rtl %}rtl{% else %}ltr{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached masthead.html %}
 
-  {% if page.title == "Home" %}{% include particles-home.html %}{% endif %}
-  {% if page.title == "404" %}{% include particles-404.html %}{% endif %}
-
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col col-sm-10 col-md-8 col-lg-6">
-        {{ content }}
-      </div>
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
     </div>
-  </div>
-  <script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>
-  {% if page.title != "404" %}
-  <script src="{{ '/assets/js/darkmode.js' | relative_url }}"></script>
-  {% endif %}
-  {% if page.title == "Home" or page.title == "404" %}
-  <script src="{{ '/assets/js/particles.min.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-  {% endif %}
-</body>
 
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
 </html>
