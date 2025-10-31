@@ -1,12 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  images: {
-    unoptimized: true
-  },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/dSign' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/dSign' : ''
-}
+const isGithubPages = process.env.DEPLOY_ENV === 'GH_PAGES';
+const repoName = 'yreva.github.io';
 
-module.exports = nextConfig
+module.exports = {
+  assetPrefix: isGithubPages ? `/${repoName}/` : '',
+  images: {
+    unoptimized: true, // For GitHub Pages compatibility
+  }};
